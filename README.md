@@ -1,66 +1,130 @@
-# 👋 Hi, I'm Arifadhil
+# 👋 Hi, I'm **Arifadhil**
 
-📊 **Junior Data Analyst**
-Python • SQL • Data Visualization
-📍 Surakarta, Indonesia
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst;Python+%7C+SQL+%7C+Data+Visualization;Turning+Data+Into+Insights" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Junior%20Data%20Analyst-blue" />
+  <img src="https://img.shields.io/badge/Location-Surakarta%2C%20Indonesia-success" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-orange" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I am a Junior Data Analyst with a strong interest in transforming raw data into clear and meaningful insights.
+I am a **Junior Data Analyst** with a strong interest in transforming **raw data into clear and actionable insights**.
 
-I focus on:
+I enjoy working with real-world datasets and documenting my learning journey through structured projects and weekly logs.
 
-* Data cleaning and exploration
-* SQL querying for analysis
-* Visualizing data to support decision making
-* Documenting progress through weekly work logs
+**What I focus on:**
 
-Currently building my portfolio through hands-on projects and consistent learning.
+* 🧹 Data cleaning & exploration
+* 🗄️ SQL querying for analysis
+* 📊 Data visualization for decision-making
+* 📝 Clear documentation & reproducible analysis
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Programming:** Python
-* **Data Analysis:** Pandas, NumPy
-* **Visualization:** Matplotlib, Seaborn
-* **Database:** MySQL, SQLite
-* **Tools:** Jupyter Notebook, Excel, GitHub
+### 💻 Programming & Analysis
+
+```text
+Python | Pandas | NumPy
+```
+
+### 📊 Visualization
+
+```text
+Matplotlib | Seaborn
+```
+
+### 🗄️ Database
+
+```text
+MySQL | SQLite
+```
+
+### 🔧 Tools
+
+```text
+Jupyter Notebook | Excel | Git | GitHub
+```
 
 ---
 
-## 📊 Data Analysis Projects
+## 📊 Featured Data Analysis Projects
 
-🔹 **Sales Data Analysis**
-Exploratory Data Analysis to identify sales trends and patterns.
+### 🔹 Sales Data Analysis
 
-🔹 **Customer Behavior Analysis**
-Customer segmentation using SQL queries and Python.
+* Exploratory Data Analysis (EDA)
+* Identifying trends, seasonality, and performance
+* Data cleaning using Pandas
 
-🔹 **Dashboard Visualization**
-Data visualization dashboard showing KPIs and insights.
+**Tech:** Python, Pandas, Matplotlib
 
-➡️ See repositories below for full documentation.
+---
+
+### 🔹 Customer Behavior Analysis
+
+* Customer segmentation
+* SQL-based analysis
+* Insight generation from transactional data
+
+**Tech:** SQL, Python
+
+---
+
+### 🔹 Dashboard Visualization
+
+* KPI-focused dashboard
+* Insight-driven visual storytelling
+
+**Tech:** Python, Matplotlib, Seaborn
+
+➡️ *See repositories below for full documentation.*
 
 ---
 
 ## 📅 Weekly Work Log
 
-I document my learning and analysis progress every week.
+I document my learning and analysis progress consistently every week.
 
-📘 **Weekly Reports Repository:**
-`weekly-data-analyst-log`
+📘 **Weekly Reports Repository**
+
+```text
+weekly-data-analyst-log
+```
+
+Each log includes:
+
+* What I learned
+* What I built
+* Challenges & solutions
 
 ---
 
 ## 🎯 Current Focus
 
-* Improving SQL (JOIN, Subquery)
+* Advanced SQL (JOIN, Subquery)
 * Data storytelling
 * Building analysis-ready datasets
+* Improving project documentation
 
 ---
 
-⭐ *This GitHub documents my journey as a Junior Data Analyst.*
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arifadhil&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifadhil&theme=tokyonight" />
+</p>
+
+---
+
+⭐ **This GitHub documents my journey as a Junior Data Analyst — learning, building, and improving every day.**
