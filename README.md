@@ -1,130 +1,159 @@
-# 👋 Hi, I'm **Arifadhil**
+<!-- ===================== HERO SECTION ===================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Junior+Data+Analyst;Python+%7C+SQL+%7C+Data+Visualization;Turning+Data+Into+Insights" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Arifadhil&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Data%20Analyst%20%7C%20Turning%20Data%20Into%20Insight&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Junior%20Data%20Analyst-blue" />
-  <img src="https://img.shields.io/badge/Location-Surakarta%2C%20Indonesia-success" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Analysis-orange" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=500&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+%7C+SQL+%7C+Data+Visualization;Data+Cleaning+%26+Exploratory+Analysis;Building+Analysis-Ready+Datasets;Learning+Every+Single+Day" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Junior%20Data%20Analyst-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Surakarta%2C%20Indonesia-22C55E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internship%20%26%20Entry%20Role-F59E0B?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-I am a **Junior Data Analyst** with a strong interest in transforming **raw data into clear and actionable insights**.
+```yaml
+name: Arifadhil
+role: Junior Data Analyst
+location: Surakarta, Indonesia
+interest:
+  - Data Cleaning
+  - Exploratory Data Analysis
+  - SQL Analytics
+  - Data Storytelling
+mindset: "Data should answer questions, not create confusion"
+```
 
-I enjoy working with real-world datasets and documenting my learning journey through structured projects and weekly logs.
-
-**What I focus on:**
-
-* 🧹 Data cleaning & exploration
-* 🗄️ SQL querying for analysis
-* 📊 Data visualization for decision-making
-* 📝 Clear documentation & reproducible analysis
+I focus on transforming **messy raw data** into **clear, structured, and decision-ready insights**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Skills
 
-### 💻 Programming & Analysis
+<table>
+<tr>
+<td width="50%">
 
-```text
-Python | Pandas | NumPy
-```
+### 📊 Data Analysis
 
-### 📊 Visualization
-
-```text
-Matplotlib | Seaborn
-```
-
-### 🗄️ Database
-
-```text
-MySQL | SQLite
-```
-
-### 🔧 Tools
-
-```text
-Jupyter Notebook | Excel | Git | GitHub
-```
-
----
-
-## 📊 Featured Data Analysis Projects
-
-### 🔹 Sales Data Analysis
-
+* Data Cleaning & Preprocessing
 * Exploratory Data Analysis (EDA)
-* Identifying trends, seasonality, and performance
-* Data cleaning using Pandas
+* Insight Generation
+* Business-Oriented Analysis
 
-**Tech:** Python, Pandas, Matplotlib
+</td>
+<td width="50%">
 
----
+### 🗄️ Querying & Logic
 
-### 🔹 Customer Behavior Analysis
+* SQL JOIN & Subquery
+* Aggregation & Filtering
+* Dataset Structuring
 
-* Customer segmentation
-* SQL-based analysis
-* Insight generation from transactional data
-
-**Tech:** SQL, Python
-
----
-
-### 🔹 Dashboard Visualization
-
-* KPI-focused dashboard
-* Insight-driven visual storytelling
-
-**Tech:** Python, Matplotlib, Seaborn
-
-➡️ *See repositories below for full documentation.*
+</td>
+</tr>
+</table>
 
 ---
 
-## 📅 Weekly Work Log
+## 🛠️ Tech Stack (Visual)
 
-I document my learning and analysis progress consistently every week.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,github,git&theme=dark" />
+</p>
 
-📘 **Weekly Reports Repository**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+</p>
+
+---
+
+## 📊 Featured Projects
+
+### 📈 Sales Data Analysis
 
 ```text
-weekly-data-analyst-log
+✔ Cleaned raw sales dataset
+✔ Performed EDA to find trends
+✔ Visualized performance metrics
 ```
 
-Each log includes:
+**Tools:** Python, Pandas, Matplotlib
 
-* What I learned
-* What I built
-* Challenges & solutions
+---
+
+### 👥 Customer Behavior Analysis
+
+```text
+✔ Customer segmentation
+✔ SQL-based insights
+✔ Behavioral pattern discovery
+```
+
+**Tools:** SQL, Python
+
+---
+
+### 📉 Dashboard Visualization
+
+```text
+✔ KPI-driven charts
+✔ Storytelling visualization
+✔ Insight-focused layout
+```
+
+**Tools:** Matplotlib, Seaborn
+
+---
+
+## 📅 Weekly Learning Log
+
+📘 Repository: **weekly-data-analyst-log**
+
+```text
+Week 01 → Data Cleaning & EDA
+Week 02 → SQL Analysis
+Week 03 → Visualization
+Week 04 → Mini Project
+```
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arifadhil&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arifadhil&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifadhil&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🎯 Current Focus
 
-* Advanced SQL (JOIN, Subquery)
-* Data storytelling
-* Building analysis-ready datasets
-* Improving project documentation
+```diff
++ Advanced SQL (JOIN, Subquery)
++ Data Storytelling
++ Portfolio-Ready Projects
++ Industry-Standard Documentation
+```
 
 ---
 
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arifadhil&show_icons=true&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=150&section=footer" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arifadhil&theme=tokyonight" />
-</p>
-
----
-
-⭐ **This GitHub documents my journey as a Junior Data Analyst — learning, building, and improving every day.**
+⭐ **This GitHub is a living portfolio documenting my growth as a Data Analyst.**
