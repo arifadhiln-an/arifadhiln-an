@@ -4,12 +4,29 @@
 
 📊 About Me
 
-<div align="center">
 class JuniorDataAnalyst:
     def __init__(self):
         self.name = "Arifadhil"
         self.location = "Surakarta, Indonesia"
-        self.focus = "Data Analysis & Visualization"
+        self.role = "Junior Data Analyst"
         self.status = "Open to Internship/Entry-Level Roles"
         self.current_week = 2
-        </div>
+        self.skills = ["Python", "SQL", "Pandas", "Data Visualization"]
+        self.focus = "Data Analysis & Visualization"
+    
+    def mission(self):
+        return "Turning raw data into actionable business insights"
+    
+    def contact(self):
+        return {
+            "github": "github.com/arifadhiln-an",
+            "location": "Surakarta, Indonesia",
+            "availability": "Open to opportunities"
+        }
+
+# Instance
+me = JuniorDataAnalyst()
+print(f"👋 Hi, I'm {me.name}, a {me.role}")
+print(f"📍 Based in {me.location}")
+print(f"🎯 Currently: Week {me.current_week} of learning journey")
+print(f"📊 Focus: {', '.join(me.skills[:3])}")
