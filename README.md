@@ -94,16 +94,16 @@ Jupyter Notebook · VS Code · Git · GitHub
 ### *🗺️ Peta Perjalanan Pembelajaran*
 	⁠*"Seperti seorang calon empu yang menjalani tahapan pembelajaran, dari magang hingga mahir."*
 
-| Minggu | Fokus Pembelajaran | Status | Repository | Filosofi Jawa |
+| Minggu | Fokus Pembelajaran | Status | Repository 
 |--------|-------------------|--------|------------|---------------|
-| *Minggu 1* | *Orientasi & Persiapan Alat* | ✅ Selesai | 🔗 [Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst) | "Mangan ora mangan sing penting kumpul" - Berkumpul dengan komunitas data |
-| *Minggu 2* | *Pengumpulan Data* | 🟡 Berjalan | 🔗 [Lihat Repo](https://github.com/deuscoco/data-collection-understanding) | "Nglumpukke kaya wohing wiji" - Mengumpulkan seperti memanen hasil |
-| *Minggu 3* | *Pembersihan & Penyaringan* | ⏳ Rencana | 🔗 Coming Soon | "Resik saka ngisor" - Bersih dari dasar |
-| *Minggu 4* | *Eksplorasi & Penemuan Pola* | ⏳ Rencana | 🔗 Coming Soon | "Mlaku-mlaku neng alas" - Berjalan-jalan di hutan data |
-| *Minggu 5* | *Analisis Mendalam dengan SQL* | ⏳ Rencana | 🔗 Coming Soon | "Nggoleki intine" - Mencari inti sari |
-| *Minggu 6* | *Visualisasi & Bercerita* | ⏳ Rencana | 🔗 Coming Soon | "Nyritakake kanthi gambar" - Bercerita dengan gambar |
-| *Minggu 7* | *Proyek Terintegrasi* | ⏳ Rencana | 🔗 Coming Soon | "Gawe karya sak piece" - Membuat karya utuh |
-| *Minggu 8* | *Presentasi & Portofolio* | ⏳ Rencana | 🔗 Coming Soon | "Nampilake ing pasar" - Menampilkan di pasar |
+| *Minggu 1* | *Orientasi & Persiapan Alat* | ✅ Selesai | 🔗 [Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst) 
+| *Minggu 2* | *Pengumpulan Data* | 🟡 Berjalan | 🔗 [Lihat Repo](https://github.com/deuscoco/data-collection-understanding) 
+| *Minggu 3* | *Pembersihan & Penyaringan* | ⏳ Rencana | 🔗 Coming Soon
+| *Minggu 4* | *Eksplorasi & Penemuan Pola* | ⏳ Rencana | 🔗 Coming Soon 
+| *Minggu 5* | *Analisis Mendalam dengan SQL* | ⏳ Rencana | 🔗 Coming Soon 
+| *Minggu 6* | *Visualisasi & Bercerita* | ⏳ Rencana | 🔗 Coming Soon
+| *Minggu 7* | *Proyek Terintegrasi* | ⏳ Rencana | 🔗 Coming Soon 
+| *Minggu 8* | *Presentasi & Portofolio* | ⏳ Rencana | 🔗 Coming Soon
 
 
 
