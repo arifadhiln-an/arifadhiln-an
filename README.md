@@ -91,16 +91,90 @@ Jupyter Notebook · VS Code · Git · GitHub
 
 ## 🗺 8-Week Data Analyst Learning Journey
 
-| Week | Focus                     | Status         |
-| ---- | ------------------------- | -------------- |
-| 1    | Tools & Environment Setup | ✅ Done         |
-| 2    | Data Collection           | 🟡 In Progress |
-| 3    | Data Cleaning             | ⏳ Planned      |
-| 4    | Exploratory Data Analysis | ⏳ Planned      |
-| 5    | SQL for Analysis          | ⏳ Planned      |
-| 6    | Data Visualization        | ⏳ Planned      |
-| 7    | End-to-End Project        | ⏳ Planned      |
-| 8    | Portfolio & Presentation  | ⏳ Planned      |
+| Week | Focus                                   | Status         |
+| ---- | --------------------------------------- | -------------- |
+| 1    | Tools & Environment Setup               | ✅ Done         |
+| 2    | Database Fundamentals (Basis Data 1–10) | 🟡 In Progress |
+| 3    | Data Cleaning                           | ⏳ Planned      |
+| 4    | Exploratory Data Analysis               | ⏳ Planned      |
+| 5    | SQL for Analysis                        | ⏳ Planned      |
+| 6    | Data Visualization                      | ⏳ Planned      |
+| 7    | End-to-End Project                      | ⏳ Planned      |
+| 8    | Database Mastery & Portfolio            | ⏳ Planned      |
+
+---
+
+## 📁 Week 2 — Database Analyst Journey (Basis Data 1–10)
+
+> **Fokus:** memahami database dari fundamental hingga query analitis yang siap kerja
+
+```text
+week-2-database-analyst/
+│
+├── Basis_Data_01_Pengenalan_Database.md
+├── Basis_Data_02_Relational_Model_ERD.md
+├── Basis_Data_03_SQL_DDL_Create_Alter_Drop.sql
+├── Basis_Data_04_SQL_DML_Insert_Update_Delete.sql
+├── Basis_Data_05_SQL_Select_Filtering.sql
+├── Basis_Data_06_Joins_Relationships.sql
+├── Basis_Data_07_Aggregation_GroupBy.sql
+├── Basis_Data_08_Subquery_CTE.sql
+├── Basis_Data_09_Window_Function.sql
+├── Basis_Data_10_Case_Study_Analysis.sql
+│
+├── dataset/
+│   └── ecommerce_sample.csv
+│
+└── README.md
+```
+
+### 🧩 Breakdown Materi
+
+* **Basis Data 1** — Konsep database, DBMS, OLTP vs OLAP
+* **Basis Data 2** — ERD, primary key, foreign key
+* **Basis Data 3** — DDL (CREATE, ALTER, DROP)
+* **Basis Data 4** — DML (INSERT, UPDATE, DELETE)
+* **Basis Data 5** — SELECT, WHERE, ORDER BY, LIMIT
+* **Basis Data 6** — JOIN (INNER, LEFT, RIGHT)
+* **Basis Data 7** — GROUP BY, HAVING, aggregation
+* **Basis Data 8** — Subquery & CTE
+* **Basis Data 9** — Window Function (ROW_NUMBER, RANK)
+* **Basis Data 10** — Studi kasus analisis data bisnis
+
+> **Fokus:** memahami database dari fundamental hingga query analitis yang siap kerja
+
+```text
+week-8-database-analyst/
+│
+├── Basis_Data_01_Pengenalan_Database.md
+├── Basis_Data_02_Relational_Model_ERD.md
+├── Basis_Data_03_SQL_DDL_Create_Alter_Drop.sql
+├── Basis_Data_04_SQL_DML_Insert_Update_Delete.sql
+├── Basis_Data_05_SQL_Select_Filtering.sql
+├── Basis_Data_06_Joins_Relationships.sql
+├── Basis_Data_07_Aggregation_GroupBy.sql
+├── Basis_Data_08_Subquery_CTE.sql
+├── Basis_Data_09_Window_Function.sql
+├── Basis_Data_10_Case_Study_Analysis.sql
+│
+├── dataset/
+│   └── ecommerce_sample.csv
+│
+└── README.md
+```
+
+### 🧩 Breakdown Materi
+
+* **Basis Data 1** — Konsep database, DBMS, OLTP vs OLAP
+* **Basis Data 2** — ERD, primary key, foreign key
+* **Basis Data 3** — DDL (CREATE, ALTER, DROP)
+* **Basis Data 4** — DML (INSERT, UPDATE, DELETE)
+* **Basis Data 5** — SELECT, WHERE, ORDER BY, LIMIT
+* **Basis Data 6** — JOIN (INNER, LEFT, RIGHT)
+* **Basis Data 7** — GROUP BY, HAVING, aggregation
+* **Basis Data 8** — Subquery & CTE
+* **Basis Data 9** — Window Function (ROW_NUMBER, RANK)
+* **Basis Data 10** — Studi kasus analisis data bisnis
 
 ---
 
