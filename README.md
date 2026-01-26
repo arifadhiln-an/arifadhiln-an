@@ -99,23 +99,21 @@ I'm actively looking for **internship** or **entry-level positions** in data ana
 
 ---
 
-## 📚 Learning Journey
+## 📅 **PERJALANAN BELAJAR 8 MINGGU: DARI MUDA HINGGA MAHIR**
 
-<div align="center">
+### **🗺️ Peta Perjalanan Pembelajaran**
+> ***"Seperti seorang calon empu yang menjalani tahapan pembelajaran, dari magang hingga mahir."***
 
-### 🗓️ Week-by-Week Progress
-
-| Week | Focus Area | Topics Covered | Status |
-|:----:|-----------|----------------|:------:|
-| **1** | Data Cleaning Fundamentals | Pandas basics, Missing values, Type conversion, Data validation | ✅ |
-| **2** | SQL Query Optimization | SELECT, WHERE, JOINs, Aggregations, Subqueries | ✅ |
-| **3** | Advanced EDA Techniques | Statistical analysis, Correlation, Outlier detection | 🔄 |
-| **4** | Portfolio Project Development | Real-world dataset analysis, End-to-end projects | 📅 |
-| **5** | Data Storytelling | Presentation skills, Dashboard creation, Insights communication | 📅 |
-
-**Legend:** ✅ Completed | 🔄 In Progress | 📅 Planned
-
-</div>
+| Minggu | Fokus Pembelajaran | Status | Repository | Filosofi Jawa |
+|--------|-------------------|--------|------------|---------------|
+| **Minggu 1** | **Orientasi & Persiapan Alat** | ✅ Selesai | 🔗 [Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst) | *"Mangan ora mangan sing penting kumpul"* - Berkumpul dengan komunitas data |
+| **Minggu 2** | **Pengumpulan Data** | 🟡 Berjalan | 🔗 [Lihat Repo](https://github.com/deuscoco/data-collection-understanding) | *"Nglumpukke kaya wohing wiji"* - Mengumpulkan seperti memanen hasil |
+| **Minggu 3** | **Pembersihan & Penyaringan** | ⏳ Rencana | 🔗 Coming Soon | *"Resik saka ngisor"* - Bersih dari dasar |
+| **Minggu 4** | **Eksplorasi & Penemuan Pola** | ⏳ Rencana | 🔗 Coming Soon | *"Mlaku-mlaku neng alas"* - Berjalan-jalan di hutan data |
+| **Minggu 5** | **Analisis Mendalam dengan SQL** | ⏳ Rencana | 🔗 Coming Soon | *"Nggoleki intine"* - Mencari inti sari |
+| **Minggu 6** | **Visualisasi & Bercerita** | ⏳ Rencana | 🔗 Coming Soon | *"Nyritakake kanthi gambar"* - Bercerita dengan gambar |
+| **Minggu 7** | **Proyek Terintegrasi** | ⏳ Rencana | 🔗 Coming Soon | *"Gawe karya sak piece"* - Membuat karya utuh |
+| **Minggu 8** | **Presentasi & Portofolio** | ⏳ Rencana | 🔗 Coming Soon | *"Nampilake ing pasar"* - Menampilkan di pasar |
 
 ---
 
