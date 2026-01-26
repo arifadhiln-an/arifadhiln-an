@@ -92,20 +92,111 @@ Jupyter Notebook · VS Code · Git · GitHub
 ## 📅 *PERJALANAN BELAJAR 8 MINGGU: DARI MUDA HINGGA MAHIR*
 
 ### *🗺️ Peta Perjalanan Pembelajaran*
-	⁠*"Seperti seorang calon empu yang menjalani tahapan pembelajaran, dari magang hingga mahir."*
 
-| Minggu | Fokus Pembelajaran | Status | Repository 
-|--------|-------------------|--------|------------|---------------|
-| *Minggu 1* | *Orientasi & Persiapan Alat* | ✅ Selesai | 🔗 [Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst) 
-| *Minggu 2* | *Pengumpulan Data* | 🟡 Berjalan | 🔗 [Lihat Repo](https://github.com/deuscoco/data-collection-understanding) 
-| *Minggu 3* | *Pembersihan & Penyaringan* | ⏳ Rencana | 🔗 Coming Soon
-| *Minggu 4* | *Eksplorasi & Penemuan Pola* | ⏳ Rencana | 🔗 Coming Soon 
-| *Minggu 5* | *Analisis Mendalam dengan SQL* | ⏳ Rencana | 🔗 Coming Soon 
-| *Minggu 6* | *Visualisasi & Bercerita* | ⏳ Rencana | 🔗 Coming Soon
-| *Minggu 7* | *Proyek Terintegrasi* | ⏳ Rencana | 🔗 Coming Soon 
-| *Minggu 8* | *Presentasi & Portofolio* | ⏳ Rencana | 🔗 Coming Soon
+> *"Seperti seorang calon empu yang menjalani tahapan pembelajaran, dari magang hingga mahir."*
 
+| Minggu     | Fokus Pembelajaran             | Status      | Repository                                                                 
+| ---------- | ------------------------------ | ----------- | -------------------------------------------------------------------------- 
+| --------   | -------------------            | --------    | ------------                                                               | --------------- |
+| *Minggu 1* | *Orientasi & Persiapan Alat*   | ✅ Selesai   | 🔗 [Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst)    |                 |
+| *Minggu 2* | *Pengumpulan Data*             | 🟡 Berjalan | 🔗 [Lihat Repo](https://github.com/deuscoco/data-collection-understanding) |                 |
+| *Minggu 3* | *Pembersihan & Penyaringan*    | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
+| *Minggu 4* | *Eksplorasi & Penemuan Pola*   | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
+| *Minggu 5* | *Analisis Mendalam dengan SQL* | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
+| *Minggu 6* | *Visualisasi & Bercerita*      | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
+| *Minggu 7* | *Proyek Terintegrasi*          | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
+| *Minggu 8* | *Presentasi & Portofolio*      | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
 
+### 📘 Detail Week 2 — Basis Data 1–10
+
+| No | File                                  | Materi                               |
+| -- | ------------------------------------- | ------------------------------------ |
+| 1  | Basis_Data_01_Pengenalan_Database.md  | Konsep database, DBMS, OLTP vs OLAP  |
+| 2  | Basis_Data_02_Relational_Model_ERD.md | ERD, primary key, foreign key        |
+| 3  | Basis_Data_03_SQL_DDL.sql             | CREATE, ALTER, DROP                  |
+| 4  | Basis_Data_04_SQL_DML.sql             | INSERT, UPDATE, DELETE               |
+| 5  | Basis_Data_05_SQL_Select.sql          | SELECT, WHERE, ORDER BY, LIMIT       |
+| 6  | Basis_Data_06_Joins.sql               | INNER, LEFT, RIGHT JOIN              |
+| 7  | Basis_Data_07_Aggregation.sql         | GROUP BY, HAVING, Aggregate Function |
+| 8  | Basis_Data_08_Subquery_CTE.sql        | Subquery & CTE                       |
+| 9  | Basis_Data_09_Window_Function.sql     | ROW_NUMBER, RANK, DENSE_RANK         |
+| 10 | Basis_Data_10_Case_Study.sql          | Analisis kasus bisnis                |
+
+---
+
+## 📁 Week 2 — Database Analyst Journey (Basis Data 1–10)
+
+> **Fokus:** memahami database dari fundamental hingga query analitis yang siap kerja
+
+```text
+week-2-database-analyst/
+│
+├── Basis_Data_01_Pengenalan_Database.md
+├── Basis_Data_02_Relational_Model_ERD.md
+├── Basis_Data_03_SQL_DDL_Create_Alter_Drop.sql
+├── Basis_Data_04_SQL_DML_Insert_Update_Delete.sql
+├── Basis_Data_05_SQL_Select_Filtering.sql
+├── Basis_Data_06_Joins_Relationships.sql
+├── Basis_Data_07_Aggregation_GroupBy.sql
+├── Basis_Data_08_Subquery_CTE.sql
+├── Basis_Data_09_Window_Function.sql
+├── Basis_Data_10_Case_Study_Analysis.sql
+│
+├── dataset/
+│   └── ecommerce_sample.csv
+│
+└── README.md
+```
+
+### 🧩 Breakdown Materi
+
+* **Basis Data 1** — Konsep database, DBMS, OLTP vs OLAP
+* **Basis Data 2** — ERD, primary key, foreign key
+* **Basis Data 3** — DDL (CREATE, ALTER, DROP)
+* **Basis Data 4** — DML (INSERT, UPDATE, DELETE)
+* **Basis Data 5** — SELECT, WHERE, ORDER BY, LIMIT
+* **Basis Data 6** — JOIN (INNER, LEFT, RIGHT)
+* **Basis Data 7** — GROUP BY, HAVING, aggregation
+* **Basis Data 8** — Subquery & CTE
+* **Basis Data 9** — Window Function (ROW_NUMBER, RANK)
+* **Basis Data 10** — Studi kasus analisis data bisnis
+
+> **Fokus:** memahami database dari fundamental hingga query analitis yang siap kerja
+
+```text
+week-8-database-analyst/
+│
+├── Basis_Data_01_Pengenalan_Database.md
+├── Basis_Data_02_Relational_Model_ERD.md
+├── Basis_Data_03_SQL_DDL_Create_Alter_Drop.sql
+├── Basis_Data_04_SQL_DML_Insert_Update_Delete.sql
+├── Basis_Data_05_SQL_Select_Filtering.sql
+├── Basis_Data_06_Joins_Relationships.sql
+├── Basis_Data_07_Aggregation_GroupBy.sql
+├── Basis_Data_08_Subquery_CTE.sql
+├── Basis_Data_09_Window_Function.sql
+├── Basis_Data_10_Case_Study_Analysis.sql
+│
+├── dataset/
+│   └── ecommerce_sample.csv
+│
+└── README.md
+```
+
+### 🧩 Breakdown Materi
+
+* **Basis Data 1** — Konsep database, DBMS, OLTP vs OLAP
+* **Basis Data 2** — ERD, primary key, foreign key
+* **Basis Data 3** — DDL (CREATE, ALTER, DROP)
+* **Basis Data 4** — DML (INSERT, UPDATE, DELETE)
+* **Basis Data 5** — SELECT, WHERE, ORDER BY, LIMIT
+* **Basis Data 6** — JOIN (INNER, LEFT, RIGHT)
+* **Basis Data 7** — GROUP BY, HAVING, aggregation
+* **Basis Data 8** — Subquery & CTE
+* **Basis Data 9** — Window Function (ROW_NUMBER, RANK)
+* **Basis Data 10** — Studi kasus analisis data bisnis
+
+---
 
 ## 🚀 Featured Projects
 
