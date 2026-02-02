@@ -99,8 +99,8 @@ Jupyter Notebook · VS Code · Git · GitHub
 | ---------- | ------------------------------ | ----------- | -------------------------------------------------------------------------- 
 | --------   | -------------------            | --------    | ------------                                                               | --------------- |
 | *Minggu 1* | *Orientasi & Persiapan Alat*   | ✅ Selesai   | 🔗 [Lihat Repo](https://github.com/deuscoco/week-1-junior-data-analyst)    |                 |
-| *Minggu 2* | *Pengumpulan Data*             | 🟡 Berjalan | 🔗 [Lihat Repo](https://github.com/arifadhiln-an/Week-2) |                 |
-| *Minggu 3* | *Pembersihan & Penyaringan*    | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
+| *Minggu 2* | *Pengumpulan Data*             | 🟡 Selesai | 🔗 [Lihat Repo](https://github.com/arifadhiln-an/Week-2) |                 |
+| *Minggu 3* | *Pembersihan & Penyaringan*    | ⏳ Berjalan   | 🔗 Coming Soon                                                             |                 |
 | *Minggu 4* | *Eksplorasi & Penemuan Pola*   | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
 | *Minggu 5* | *Analisis Mendalam dengan SQL* | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
 | *Minggu 6* | *Visualisasi & Bercerita*      | ⏳ Rencana   | 🔗 Coming Soon                                                             |                 |
