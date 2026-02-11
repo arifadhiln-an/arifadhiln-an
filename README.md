@@ -105,7 +105,7 @@ Jupyter Notebook · VS Code · Git · GitHub
 |------|------------|------------|
 | Week 1 | Tools & Orientation | 🔗 https://github.com/deuscoco/week-1-junior-data-analyst |
 | Week 2 | Data Collection | 🔗 https://github.com/arifadhiln-an/Week-2 |
-| Week 3 | Data Cleaning | 🔗 Coming Soon |
+| Week 3 | Data Cleaning | 🔗 https://github.com/arifadhiln-an/Week-3 |
 | Week 4 | Exploratory Data Analysis | 🔗 Coming Soon |
 | Week 5 | Advanced SQL | 🔗 Coming Soon |
 | Week 6 | Data Visualization | 🔗 Coming Soon |
@@ -120,7 +120,7 @@ Jupyter Notebook · VS Code · Git · GitHub
 
 ## 🖼 Project Showcase (Visual Preview)
 
-### 📊 Sales Performance Dashboard Preview
+### 📊 Autocare Cars Wash
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/arifadhiln-an/arifadhiln-an/main/assets/Tangkapan Layar 2026-02-11 pukul 22.57.15.png" width="80%">
