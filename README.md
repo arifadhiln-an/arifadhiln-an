@@ -133,41 +133,6 @@ Jupyter Notebook · VS Code · Git · GitHub
 
 ---
 
-### 👥 Customer Segmentation SQL Preview
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/sql-segmentation.png" width="80%">
-</p>
-
-**Impact:**
-- Built RFM segmentation logic  
-- Classified high-value customers  
-- Optimized SQL query performance  
-
----
-
-## 📊 Sales Performance Analysis  
-**Tools:** Python · Pandas · Visualization  
-
-- Cleaned 10,000+ rows of sales data  
-- Identified growth trends & seasonal patterns  
-- Highlighted top-performing products  
-- Built business-ready visualizations  
-
-🔗 Repo: https://github.com/arifadhiln-an  
-
----
-
-## 👥 Customer Segmentation (SQL)  
-**Tools:** SQL · MySQL · Python  
-
-- Segmented customers using behavioral metrics  
-- Applied RFM-style logic  
-- Optimized SQL queries for performance  
-
-🔗 Repo: https://github.com/arifadhiln-an  
-
----
 
 # ✍️ Data Articles (Medium)
 
