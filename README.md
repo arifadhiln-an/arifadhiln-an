@@ -123,7 +123,7 @@ Jupyter Notebook · VS Code · Git · GitHub
 ### 📊 Sales Performance Dashboard Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arifadhiln-an/arifadhiln-an/main/assets/assets/Tangkapan Layar 2026-02-11 pukul 22.57.15.png" width="80%">
+  <img src="https://raw.githubusercontent.com/arifadhiln-an/arifadhiln-an/main/assets/Tangkapan Layar 2026-02-11 pukul 22.57.15.png" width="80%">
 </p>
 
 **Impact:**
@@ -178,7 +178,7 @@ I write about:
 - Insight storytelling  
 
 📖 Read here:  
-🔗 https://medium.com/@USERNAME_KAMU  
+🔗 https://medium.com/@Arifadhiln  
 
 ---
 
