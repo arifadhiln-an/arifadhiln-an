@@ -121,6 +121,36 @@ Jupyter Notebook · VS Code · Git · GitHub
 
 # 🚀 Featured Projects
 
+---
+
+## 🖼 Project Showcase (Visual Preview)
+
+### 📊 Sales Performance Dashboard Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/sales-dashboard.png" width="80%">
+</p>
+
+**Impact:**
+- Analyzed 10K+ transaction records  
+- Identified revenue concentration (Pareto 80/20 insight)  
+- Built clean executive-ready visualization  
+
+---
+
+### 👥 Customer Segmentation SQL Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/sql-segmentation.png" width="80%">
+</p>
+
+**Impact:**
+- Built RFM segmentation logic  
+- Classified high-value customers  
+- Optimized SQL query performance  
+
+---
+
 ## 📊 Sales Performance Analysis  
 **Tools:** Python · Pandas · Visualization  
 
